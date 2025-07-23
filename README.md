@@ -91,7 +91,10 @@ python jukemate.py
 
 ---
 
-## ⚠️ Disclaimer
+
+
+
+### ⚠️ Disclaimer
 
 JukeMate is a personal-use tool created for **educational and non-commercial purposes only**.
 
